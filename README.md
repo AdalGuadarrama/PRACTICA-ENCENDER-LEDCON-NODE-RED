@@ -40,4 +40,4 @@ Para realizar el proyecto se necesita:
 ![.](https://github.com/AdalGuadarrama/PRACTICA-ENCENDER-LEDCON-NODE-RED/blob/main/i9.0.png)
 
 #### CREDITOS
-ing. Guadarrama Lome Adalberto 
+Ing. Guadarrama Lome Adalberto 
