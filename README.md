@@ -14,7 +14,7 @@ Para realizar el proyecto se necesita:
 1. Abrimos nuestro programa Wokwi y colocamos el siguiente codigo:
 2. Colocamos la libreria de PubSubClient como se muestra en la siguente imagen.
 3. Despues  insertamos el LED y el Resistor con la ESP32 y procedemos a ser la conexión.
-4. Abrimos eñ programa de Node-RED y colocamos el bloque de mqtt out.
+4. Abrimos el programa de Node-RED y colocamos el bloque de mqtt out.
 5. Configuramos el bloque con el puerto mqtt out con el ip 18.193.219.109 y el nombre de tu eleccion.
 6. A continuacion colocamos el bloque de switch.
 7. Despues configuramos el bloque con el puerto switch en el grupo de interruptor.
