@@ -36,6 +36,8 @@ Para realizar el proyecto se necesita:
 #### RESULTADOS 
 * Para finalizar iniciamos el simulador en Node-RED dando click izquierdo en el botón Deploy y abrimos la tarjeta eps32 dando click izquierdo en el boton de exportar.
 * Visualizamos  la interfaz y accionar el switch, observamos que el simulador haya funcionado. Veremos la luz del LED encendida y los valores dentro del monitor serial, con respecto a la interfaz.
+![:](https://github.com/AdalGuadarrama/PRACTICA-ENCENDER-LEDCON-NODE-RED/blob/main/i10.png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-ENCENDER-LEDCON-NODE-RED/blob/main/i9.png)
 
 #### CREDITOS
 ing. Guadarrama Lome Adalberto 
